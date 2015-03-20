@@ -1,3 +1,7 @@
+[garage-@takumi987 は 別リポジトリとして独立しました。](https://github.com/Jmblllllr/garageT987) (2015.03.20)
+
+---
+
 # starting point
 
 以下、漠然としている部分があり、個人的な構想の段階のメモ　（takumi987の企画構想）
